@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(114, 147, 185)};
+
+header{
+    background-color: darkgray;
+}
+span{
+    color:darkslateblue;
+}
+footer{
+    text-align: center;
+    background-color: rgb(164, 193, 218);
+}
